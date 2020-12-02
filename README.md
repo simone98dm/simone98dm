@@ -1,19 +1,12 @@
-### Hi there 👋
-#### Some stats
+### Hi👋, my name is Simone.
+
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![C#](https://img.shields.io/badge/CSharp-Expert-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+
+#### Some stats⚡
 [![simone98dm's github stats](https://github-readme-stats.vercel.app/api?username=simone98dm)](https://github.com/simone98dm)
 
-#### Top languages
+#### Top languages🔭
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simone98dm)](https://github.com/simone98dm)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
