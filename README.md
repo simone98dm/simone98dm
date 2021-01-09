@@ -7,10 +7,3 @@
 
 #### Some stats⚡
 ![Metrics](https://metrics.lecoq.io/simone98dm?template=classic&languages=1&config.timezone=Europe%2FRome)
-
-/*
-[![simone98dm's github stats](https://github-readme-stats.vercel.app/api?username=simone98dm)](https://github.com/simone98dm)
-
-#### Top languages🔭
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simone98dm)](https://github.com/simone98dm)
-*/
