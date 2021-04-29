@@ -1,6 +1,6 @@
 ### Hi👋, my name is Simone.
 
-#### My Skills💻
+## 📌 My Skills💻
 
 ![GNU/Linux](https://img.shields.io/badge/-OS-Linux?style=flat-square&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
