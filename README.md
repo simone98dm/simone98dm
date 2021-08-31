@@ -69,9 +69,3 @@
 </p>
 
 
-
-### ⚡ Recent GitHub Activity
-
-<a href="https://github.com/simone98dm"><img alt="simone98dm Graph" src="https://activity-graph.herokuapp.com/graph?username=simone98dm&custom_title=simone98dm%20Contribution%20Graph&theme=react-dark" /></a>
-
-
