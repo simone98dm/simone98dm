@@ -26,7 +26,6 @@
 <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 👉 Backend Development
