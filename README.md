@@ -11,6 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simone98dm&count_private=true&show_icons=true&theme=algolia" alt="simone98dm"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simone98dm&theme=algolia" alt="simone98dm"  />
 </p>
 
 ## 🛠️ My Skills
