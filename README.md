@@ -1,17 +1,12 @@
-<!--
 <h1 align="center">Hi, I'm Simone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm%20a%20Frontend+Developer;Tech%20Enthusiast;Pizza%20Lover%20🍕;&center=true&width=500&height=50&duration=4000"></a>
 </p>
--->
-
-<img src="./content/background.png" alt="background" />
 
 ## 🔥 About me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simone98dm&count_private=true&show_icons=true&theme=algolia" alt="simone98dm"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simone98dm&theme=algolia" alt="simone98dm"  />
 </p>
 
 ## 🛠️ My Skills
