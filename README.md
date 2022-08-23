@@ -22,8 +22,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=simone98dm&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=simone98dm&theme=algolia&hide_border=true)<br/>
+<table>
+  <tr>
+    <td style="border:0px">
+      <img src="https://github-readme-stats.vercel.app/api?username=simone98dm&theme=algolia&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td style="border:0px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone98dm&layout=compact&theme=algolia&hide=css,html" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simone98dm&theme=nord&no-frame=true&no-bg=false&margin-w=4)
