@@ -28,7 +28,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=simone98dm&theme=algolia&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td style="border:0px">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone98dm&layout=compact&theme=algolia&hide=css,html" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone98dm&layout=compact&theme=algolia&hide=css,html&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
   </tr>
 </table>
