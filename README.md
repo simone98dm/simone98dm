@@ -21,7 +21,7 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊GitHub Stats :
+# 📊GitHub Stats
 <table>
   <tr>
     <td style="border:0px">
