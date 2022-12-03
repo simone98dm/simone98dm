@@ -33,9 +33,6 @@
   </tr>
 </table>
 
-# 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=simone98dm&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 # 🍕 Talking about pizza
 [![BuyMeACoffee](https://img.shields.io/badge/Someone%20said%20Pizza-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/simone98dm) 
 
