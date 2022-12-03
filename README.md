@@ -1,10 +1,10 @@
 # Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-🔭 I’m currently working on personal projects
+🔭 Currently working on personal projects
 
-🤝 I’m looking to help with projects
+🤝 Looking to help with open source projects
 
-🚀 I’m currently learning new web frameworks, DevOps and tech stacks
+🚀 Learning new web frameworks and tech stacks
 
 🍕 Eating pizza while typing
 
