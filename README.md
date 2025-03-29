@@ -19,7 +19,4 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 🍕 Talking about pizza
-[![BuyMeACoffee](https://img.shields.io/badge/Someone%20said%20Pizza-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/simone98dm) 
-
   
